@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 BRIAN LAVOIE
+# 🌌 ADAM LEE
 
 ### `FULL-STACK DEVELOPER` • `DIGITAL ARCHITECT` • `CREATIVE BUILDER`
 
@@ -20,7 +20,7 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    BRIAN LAVOIE // CORE                      ║
+║                    ADAM LEE // CORE                      ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║   IDEA ──────► CODE ──────► SYSTEM ──────► AUTOMATION        ║
@@ -179,7 +179,7 @@ MISSION CONTROL
 [████████████████████████████████████████] 100%
 
 PROJECT        : DIGITAL EVOLUTION
-ARCHITECT      : BRIAN LAVOIE
+ARCHITECT      : ADAM LEE
 ENVIRONMENT    : CLOUD / LOCAL / OPEN SOURCE
 MODE           : DEVELOPMENT
 STATUS         : ACTIVE
@@ -196,7 +196,7 @@ STATUS         : ACTIVE
 [00:00:04] AUTOMATION MODULE CONNECTED
 [00:00:05] PROJECT DATABASE SYNCHRONIZED
 [00:00:06] CREATIVE ENGINE ACTIVATED
-[00:00:07] BRIAN LAVOIE ONLINE
+[00:00:07] ADAM LEE ONLINE
 
 ────────────────────────────────────────────
 
@@ -301,7 +301,7 @@ STATUS: ● ALL SYSTEMS OPERATIONAL
 # 🌐 DIGITAL ARCHITECTURE
 
 ```text
-                         BRIAN LAVOIE
+                         ADAM LEE
                               │
                     ┌─────────┴─────────┐
                     │                   │
@@ -365,7 +365,7 @@ STATUS: ● ALL SYSTEMS OPERATIONAL
 
 <div align="center">
 
-# ⚡ BRIAN LAVOIE
+# ⚡ ADAM LEE
 
 ### `DIGITAL ARCHITECT • DEVELOPER • CREATOR`
 
@@ -375,6 +375,6 @@ STATUS: ● ALL SYSTEMS OPERATIONAL
 
 **Built with code, creativity and curiosity.**
 
-`© Brian Lavoie`
+`© ADAM LEE`
 
 </div>
