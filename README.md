@@ -4,7 +4,7 @@
 
 ### `FULL-STACK DEVELOPER` • `DIGITAL ARCHITECT` • `CREATIVE BUILDER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Brian+Lavoie's+Digital+Workspace;Building+Ideas+Into+Digital+Systems;Code+%E2%80%A2+Create+%E2%80%A2+Automate+%E2%80%A2+Evolve" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+ADAM+LEE's+Digital+Workspace;Building+Ideas+Into+Digital+Systems;Code+%E2%80%A2+Create+%E2%80%A2+Automate+%E2%80%A2+Evolve" alt="Typing Animation"/>
 
 <br>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=1800&pause=500&color=FF00FF&center=true&vCenter=true&width=650&lines=%5B+NEXUS+CORE+INITIALIZING+%5D;%5B+LOADING+DIGITAL+MODULES+%5D;%5B+SYSTEM+ONLINE+%5D;%5B+WELCOME+BRIAN+LAVOIE+%5D" alt="Nexus Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=1800&pause=500&color=FF00FF&center=true&vCenter=true&width=650&lines=%5B+NEXUS+CORE+INITIALIZING+%5D;%5B+LOADING+DIGITAL+MODULES+%5D;%5B+SYSTEM+ONLINE+%5D;%5B+WELCOME+ADAM+LEE+%5D" alt="Nexus Animation"/>
 
 </div>
 
